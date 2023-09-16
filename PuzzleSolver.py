@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Introduction to Cog Sci Final Project
-
 @author: Sohan Biswal
 """
 
